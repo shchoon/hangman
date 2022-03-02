@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  padding: 10px 0;
+}
+
+h2 {
+  padding: 10px 0;
+}
+
+.alphabet {
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.alphabet button {
+  display: inline-block;
+  padding-right: 15px;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 5px 0;
+  width: 30px;
+  height: 30px;
+  background-color: lemonchiffon;
+  cursor: pointer;
+}
+
+.answer {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.answer div {
+  display: inline-block;
+  width: 30px;
+  border-bottom: 1px solid #aaa;
+}
+
+.answer div.mi {
+  display: none;
+}
+
+.footer {
+  padding-top: 100px;
+}
+
+.footer div {
+  border-bottom: 2px solid #606060;
+  width: 100px;
+}
